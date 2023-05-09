@@ -1,0 +1,16 @@
+[gd_resource type="DynamicFont" load_steps=4 format=2]
+
+[ext_resource path="res://ui/fonts/archangel/OpenDyslexic-Bold.otf" type="DynamicFontData" id=1]
+[ext_resource path="res://ui/fonts/archangel/ark-pixel-12px-ja.ttf" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFontData" id=1]
+font_path = "res://ui/fonts/archangel/OpenDyslexic-Bold.otf"
+
+[resource]
+size = 53
+use_filter = true
+extra_spacing_top = 8
+extra_spacing_bottom = 4
+font_data = SubResource( 1 )
+fallback/0 = ExtResource( 3 )
+fallback/1 = ExtResource( 1 )

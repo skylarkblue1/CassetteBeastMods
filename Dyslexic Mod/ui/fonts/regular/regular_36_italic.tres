@@ -1,0 +1,12 @@
+[gd_resource type="DynamicFont" load_steps=2 format=2]
+
+[sub_resource type="DynamicFontData" id=1]
+resource_local_to_scene = true
+font_path = "res://ui/fonts/regular/OpenDyslexic-BoldItalic.otf"
+
+[resource]
+size = 30
+use_filter = true
+extra_spacing_top = 6
+extra_spacing_bottom = 3
+font_data = SubResource( 1 )

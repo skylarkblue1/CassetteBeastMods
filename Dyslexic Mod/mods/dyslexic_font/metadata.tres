@@ -1,0 +1,16 @@
+[gd_resource type="Resource" load_steps=2 format=2]
+
+[ext_resource path="res://data/ContentInfo.gd" type="Script" id=1]
+
+[resource]
+script = ExtResource( 1 )
+id = "dyslexic_font_all"
+name = "Dyslexia Mod"
+version_code = 0
+version_string = "1.1"
+author = "skylarkblue1"
+save_file_format_tag = ""
+save_file_format_tag_version = 0
+network_protocol_tag = ""
+modified_files = [ "res://ui/fonts/regular/regular_20.tres", "res://ui/fonts/regular/regular_24.tres", "res://ui/fonts/regular/regular_24_bold.tres", "res://ui/fonts/regular/regular_24_italic.tres", "res://ui/fonts/regular/regular_30.tres", "res://ui/fonts/regular/regular_30_bold.tres", "res://ui/fonts/regular/regular_30_italic.tres", "res://ui/fonts/regular/regular_36.tres", "res://ui/fonts/regular/regular_36_bold.tres", "res://ui/fonts/regular/regular_36_italic.tres", "res://ui/fonts/regular/regular_40.tres", "res://ui/fonts/regular/regular_40_bold.tres", "res://ui/fonts/regular/regular_40_italic.tres", "res://ui/fonts/regular/regular_50.tres", "res://ui/fonts/regular/regular_50_bold.tres", "res://ui/fonts/regular/regular_50_italic.tres", "res://ui/fonts/regular/regular_70.tres", "res://ui/fonts/regular/regular_85.tres", "res://ui/fonts/regular/regular_100.tres", "res://ui/fonts/regular/regular_140.tres", "res://ui/fonts/regular/regular_190.tres", "res://ui/fonts/regular/OpenDyslexic-Bold.otf", "res://ui/fonts/regular/OpenDyslexic-BoldItalic.otf", "res://ui/fonts/regular/regular.Neu5Land-Bold.backup.ttf", "res://ui/fonts/regular/regular.Neu5Land-BoldItalic.backup.ttf", "res://menus/settings/GraphicsPanel.tscn", "res://ui/fonts/archangel/OpenDyslexic-Bold.otf", "res://ui/fonts/archangel/archangel_40.tres", "res://ui/fonts/archangel/archangel_50.tres", "res://ui/fonts/archangel/archangel_60.tres", "res://ui/fonts/archangel/archangel_70.tres", "res://ui/fonts/archangel/archangel_70_bold.tres", "res://ui/fonts/archangel/archangel_100.tres", "res://menus/settings/GraphicsPanel.tscn", "res://menus/settings/GraphicsPanel.gd", "res://global/UserSettings.gd", "res://menus/spooky_dialog/SpookyDialog.gd", "res://ui/fonts/regular/regular_36.en.tres" ]
+modified_dirs = [  ]
