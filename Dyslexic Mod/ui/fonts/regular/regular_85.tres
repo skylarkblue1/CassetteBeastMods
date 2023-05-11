@@ -4,7 +4,7 @@
 font_path = "res://ui/fonts/regular/OpenDyslexic-Bold.otf"
 
 [resource]
-size = 66
+size = 60
 use_filter = true
 extra_spacing_top = 4
 extra_spacing_bottom = 4
